@@ -56,6 +56,8 @@ private:
     int length;
     int width;
 
+
+
 public:
     Rectangle(int l = 10, int w = 5)
     {
