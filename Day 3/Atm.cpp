@@ -15,7 +15,7 @@ public:
     ATM_pin_check()
     {
         accountno = "259400";
-        name = "Suvankar";
+        name = "Soham";
         balance = 18000;
         pin = 1234;
     }
